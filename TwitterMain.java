@@ -1,7 +1,3 @@
-// Name: Jun Bruttomesso
-// Date: 11/17/2022
-// Class: CSE 122
-// TA: Colton Harris
 // Program: Twitter Trends
 import java.util.*;
 import java.io.*;
